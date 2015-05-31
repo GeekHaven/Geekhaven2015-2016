@@ -6,7 +6,7 @@ Tech Coordinators:<br>
 	2. Sanjeev S<br>
 	3. Vishnu KS<br>
 	4. Ankit Mund<br>
-WINGS :
+	
 Web Development :
 	Coordinators:
 	1. Saptak Sengupta (iit2013193)
