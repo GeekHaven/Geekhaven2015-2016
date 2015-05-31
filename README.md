@@ -3,8 +3,8 @@ current committee list 2k15
 <br>
 Tech Coordinators:<br>
 	1. Abhishek Menon<br>
-	2. Sanjeev S<br>
-	3. Vishnu KS<br>
+	2. <a href="https://github.com/ddemented">Sanjeev S</a><br>
+	3. <a href="https://github.com/hackerkid">Vishnu KS</a><br>
 	4. Ankit Mund<br>
 
 WINGS :<br>
