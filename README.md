@@ -14,6 +14,12 @@ Co-ordinators:<br>
 	2. Rivu Das<br>
 	3. Pradyumna Newalkar<br>
 Members: Will be updated soon!<br>
+<br>
+Wing Name: Web Development<br>
+Co-ordinators:<br>
+	1. <a href="https://www.github.com/SaptakS">Saptak Sengupta</a><br>
+	2. Anurag Sharma<br>
+Members: Will be updated soon!<br>
 WINGS :<br>
 //Add your wings along with your members and coordinator list.<br>
 //Wing Name:<br>
