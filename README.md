@@ -24,4 +24,9 @@
 * [Rupesh maity](https://www.github.com/deathsurgeon)
 * Rivu Das
 * Pradyumna Newalkar
+* 
+##FOSS
+###Members
+*[Gautham Santhosh](https://github.com/gauthamzz)
+*sulyab thottungal
 
