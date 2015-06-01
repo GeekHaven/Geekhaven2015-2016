@@ -34,6 +34,6 @@
 ###Co-ordinators
 * [Rupesh maity](https://www.github.com/deathsurgeon)
 * Rivu Das
-* Pradyumna Newalkar
+* [Pradyumna Newalkar](https://github.com/pradyumna1)
 
 
