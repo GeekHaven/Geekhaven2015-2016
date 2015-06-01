@@ -23,6 +23,7 @@
 ###Coordinators
 * [Anurag Das](shadowwalkers)
 * [Amol Upraity](vampcoder)
+
 ###Members
 * [Ashima Elhence](elhenceashima)
 * [Gautham Santhosh](https://github.com/gauthamzz)
