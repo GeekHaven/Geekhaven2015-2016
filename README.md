@@ -13,7 +13,7 @@
 
 ###Members
 * Shubham Bhendarkar
-* Abhishek Deora
+* [Abhishek Deora](http://github.com/adeora7)
 * Aditya Kumawat
 * Madhuri Soni
 * Asif Khursheed
