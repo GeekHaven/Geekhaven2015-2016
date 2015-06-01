@@ -19,14 +19,20 @@
 * Asif Khursheed
 
 
+##FOSS
+###Coordinators
+* [Anurag Das](shadowwalkers)
+* [Amol Upraity](vampcoder)
+###Members
+* [Ashima Elhence](elhenceashima)
+* [Gautham Santhosh](https://github.com/gauthamzz)
+* [Sulyab Thottungal](https://github.com/sulyabtv)
+
+
 ##Amethi Council
 ###Co-ordinators
 * [Rupesh maity](https://www.github.com/deathsurgeon)
 * Rivu Das
 * Pradyumna Newalkar
-* 
-##FOSS
-###Members
-*[Gautham Santhosh](https://github.com/gauthamzz)
-*sulyab thottungal
+
 
