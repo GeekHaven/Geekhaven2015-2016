@@ -12,7 +12,7 @@
 * Anurag Sharma
 
 ###Members
-* Shubham Bhendarkar
+* [Shubham Bhendarkar](http://github.com/codebhendi)
 * [Abhishek Deora](http://github.com/adeora7)
 * Aditya Kumawat
 * Madhuri Soni
