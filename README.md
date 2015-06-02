@@ -18,6 +18,15 @@
 * Madhuri Soni
 * Asif Khursheed
 
+##Networking
+###Coordinators:
+* [Vivek Anand](https://github.com/vivekanand1101)
+* Namit Aggarwal
+
+###Members:
+* Sahil Hindwani
+* Utkarsh Sahu
+* Akhila Jetty
 
 ##FOSS
 ###Coordinators
