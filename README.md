@@ -9,7 +9,7 @@
 ##Web Development
 ###Coordinators:
 * [Saptak Sengupta](https://www.github.com/SaptakS)
-* Anurag Sharma
+* [Anurag Sharma](https://www.github.com/anurageldorado)
 
 ###Members
 * [Shubham Bhendarkar](http://github.com/codebhendi)
