@@ -37,3 +37,18 @@
 * [Pradyumna Newalkar](https://github.com/pradyumna1)
 
 
+##Graphics Wing
+###Coordinators
+* Arpit Goel
+* Nikitha Agarwal
+* Raj Banoth
+
+###Members
+
+ * Prachi Mourya
+ * Aryam mikh
+ *  [Shyamnaik](https://www.github.com/Shyamnaik)
+ *   [Rupesh Pawar](https://www.github.com/rupeshpawar007)
+ *   Divyesh Soni
+
+
