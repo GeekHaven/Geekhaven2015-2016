@@ -14,7 +14,7 @@
 ###Members
 * [Shubham Bhendarkar](http://github.com/codebhendi)
 * [Abhishek Deora](http://github.com/adeora7)
-* Aditya Kumawat
+* [Aditya Kumawat](http://github.com/aditya19496)
 * Madhuri Soni
 * Asif Khursheed
 
