@@ -37,7 +37,7 @@
 * [Ashima Elhence](https://github.com/elhenceashima)
 * [Gautham Santhosh](https://github.com/gauthamzz)
 * [Sulyab Thottungal](https://github.com/sulyabtv)
-* Kaustubh Shamshery
+* [Kaustubh Shamshery](https://github.com/KaustubhShamshery) 
 * Sarthak Panda
 
 
