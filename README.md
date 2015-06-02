@@ -28,6 +28,8 @@
 * [Ashima Elhence](elhenceashima)
 * [Gautham Santhosh](https://github.com/gauthamzz)
 * [Sulyab Thottungal](https://github.com/sulyabtv)
+* Kaustubh Shamshery
+* Sarthak Panda
 
 
 ##Amethi Council
