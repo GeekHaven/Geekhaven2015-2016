@@ -30,11 +30,11 @@
 
 ##FOSS
 ###Coordinators
-* [Anurag Das](shadowwalkers)
-* [Amol Upraity](vampcoder)
+* [Anurag Das](https://github.com/shadowwalkers)
+* [Amol Upraity](https://github.com/vampcoder)
 
 ###Members
-* [Ashima Elhence](elhenceashima)
+* [Ashima Elhence](https://github.com/elhenceashima)
 * [Gautham Santhosh](https://github.com/gauthamzz)
 * [Sulyab Thottungal](https://github.com/sulyabtv)
 * Kaustubh Shamshery
@@ -51,7 +51,7 @@
 ##Graphics Wing
 ###Coordinators
 * Arpit Goel
-* Nikitha Agarwal
+* Nikita Agarwal
 * Raj Banoth
 
 ###Members
