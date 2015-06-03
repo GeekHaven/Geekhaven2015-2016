@@ -44,7 +44,7 @@
 ##Amethi Council
 ###Co-ordinators
 * [Rupesh maity](https://www.github.com/deathsurgeon)
-* Rivu Das
+* [Rivu Das](https://github.com/rivudas)
 * [Pradyumna Newalkar](https://github.com/pradyumna1)
 
 
