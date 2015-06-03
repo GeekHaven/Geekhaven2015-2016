@@ -40,6 +40,11 @@
 * [Kaustubh Shamshery](https://github.com/KaustubhShamshery) 
 * Sarthak Panda
 
+##App Development
+###Coordinators
+
+###Membera
+* [Satyam Poddar](https://github.com/flare505) 
 
 ##Amethi Council
 ###Co-ordinators
