@@ -24,7 +24,7 @@
 * Namit Aggarwal
 
 ###Members:
-* Sahil Hindwani
+* [Sahil Hindwani](https://github.com/sahilhindwani)
 * Utkarsh Sahu
 * Akhila Jetty
 
