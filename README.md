@@ -45,6 +45,7 @@
 
 ###Membera
 * [Satyam Poddar](https://github.com/flare505) 
+* [Saloni Mittal](https://github.com/smittal10)
 
 ##Amethi Council
 ###Co-ordinators
