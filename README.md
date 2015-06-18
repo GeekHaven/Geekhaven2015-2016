@@ -48,6 +48,18 @@
 * [Saloni Mittal](https://github.com/smittal10)
 * [Ashish Reddy](https://github.com/ashdraxler)
 
+##Competitive Coding
+###Coordinators
+* Swapnil Saxena
+* SP Harish
+###Members
+* Lavesh Kaushik
+* Ayush Awasti
+* Mohd Abdulla
+* [Teja Vojjala](https://github.com/iit2014086)
+* Utkarsh Srivastava
+* Shivam Beri
+
 ##Amethi Council
 ###Co-ordinators
 * [Rupesh maity](https://www.github.com/deathsurgeon)
