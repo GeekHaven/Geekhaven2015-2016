@@ -52,6 +52,7 @@
 ###Coordinators
 * Swapnil Saxena
 * SP Harish
+
 ###Members
 * Lavesh Kaushik
 * Ayush Awasti
