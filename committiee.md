@@ -17,7 +17,7 @@
 * [Shubham Bhendarkar](http://github.com/codebhendi)
 * [Abhishek Deora](http://github.com/adeora7)
 * [Aditya Kumawat](http://github.com/aditya19496)
-* Madhuri Soni
+* [Madhuri Soni](http://github.com/madhuri1596)
 * [Asif Khursheed](https://github.com/codefather1)
 
 ##Networking
