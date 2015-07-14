@@ -53,7 +53,7 @@
 ##Competitive Coding
 ###Coordinators
 * Swapnil Saxena
-* SP Harish
+* [SP Harish](https://github.com/spharish)
 
 ###Members
 * Lavesh Kaushik
