@@ -13,6 +13,6 @@ The schedule of classes conducted by GeekHaven is [listed](classes.md).
 
 ##Contact
 
-* You can get the Github handles of GeekHaven members [here](committiee.md)
+* You can get the Github handles of GeekHaven members [here](committee.md)
 
 * If you are not satisfied with the quality of Workshop or with the commitment level of a member or coordinator report it [here](https://github.com/GeekHaven/Getting-Started/issues/new).
