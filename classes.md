@@ -4,21 +4,21 @@ All the upcoming classes conducted by GeekHaven is listed here
 ##Web Development
 
 
-##Competetive Programming 
+###Competetive Programming 
 
 
-##FOSS
+###FOSS
 
 
-##Networking
+###Networking
 
 
-#App Development
+###App Development
 
 
-##Electronics
+###Electronics
 
 
-##Graphics
+###Graphics
 
 
