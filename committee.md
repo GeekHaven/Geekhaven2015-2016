@@ -58,7 +58,7 @@
 ###Members
 * Lavesh Kaushik
 * Ayush Awasti
-* Mohd Abdulla
+* [Mohd Abdulla](https://github.com/brainstormm)
 * [Teja Vojjala](https://github.com/iit2014086)
 * Utkarsh Srivastava
 * Shivam Beri
