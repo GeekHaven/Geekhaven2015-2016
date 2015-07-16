@@ -1,4 +1,4 @@
-#Gekkhaven Committee 2015-2016
+#GeekHaven Committee 2015-2016
 
 ##Overall Coordinators
 * [Sanjeev S](https://github.com/ddemented)

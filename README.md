@@ -1,7 +1,7 @@
 #GeekHaven
 
-##Workshops
-Workshop time table of various wings is yet to come.
+##Classes
+The schedule of classes conducted by GeekHaven is [listed](classes.md). 
 
 ##Projects
 
