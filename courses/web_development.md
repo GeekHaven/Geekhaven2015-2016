@@ -1,10 +1,10 @@
-# Course Structure for Various Wings
+#Web Development
 
-##Web Development Course Structure(Just an approximate structure)
+##Course Structure(roughly)
 
 ####Day 1
 
-* Introduction 
+* Introduction
 * Tell students about web development.
 * Show interesting examples.
 * Make students interested.
