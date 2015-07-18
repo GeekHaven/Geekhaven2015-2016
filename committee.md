@@ -27,7 +27,7 @@
 
 ###Members:
 * [Sahil Hindwani](https://github.com/sahilhindwani)
-* Utkarsh Sahu
+* [Utkarsh Sahu](https://github.com/utkarshsahu)
 * Akhila Jetty
 
 ##FOSS
