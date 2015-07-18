@@ -60,7 +60,7 @@
 * Ayush Awasti
 * [Mohd Abdulla](https://github.com/brainstormm)
 * [Teja Vojjala](https://github.com/iit2014086)
-* Utkarsh Srivastava
+* [Utkarsh Srivastava](http://github.com/utk3995)
 * [Shivam Beri](https://github.com/shivamberi)
 
 ##Amethi Council
