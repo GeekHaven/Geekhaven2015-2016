@@ -28,7 +28,7 @@
 ###Members:
 * [Sahil Hindwani](https://github.com/sahilhindwani)
 * [Utkarsh Sahu](https://github.com/utkarshsahu)
-* Akhila Jetty
+* [Akhila Jetty](https://github.com/Akhilajetty)
 
 ##FOSS
 ###Coordinators
