@@ -23,7 +23,7 @@
 ##Networking
 ###Coordinators:
 * [Vivek Anand](https://github.com/vivekanand1101)
-* Namit Aggarwal
+* [Namit Agrawal](https://github.com/namitagrwl)
 
 ###Members:
 * [Sahil Hindwani](https://github.com/sahilhindwani)
