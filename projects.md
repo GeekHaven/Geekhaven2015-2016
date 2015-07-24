@@ -17,7 +17,7 @@ If you are interested in working on any of these projects check [this](contribut
 
 #Suggested Projects
 
-# Institute ticketing system
+## Institute ticketing system
 
 In todays world, major enterprises adopt ticketing systems as their primary inter-teams communication channel for raising requests and mentioning issues. The system acts as a web portal with clear ownership of different clients to different ticket queues. This highly expedites transparency and efficiency of the enterprise communication. Such a system also empowers to define clear service level agreements(SLA) between different entites. For example, a request X by a team A to team B should take maximum 5 days to process. 
 
