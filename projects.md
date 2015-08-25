@@ -17,6 +17,11 @@ If you are interested in working on any of these projects check [this](contribut
 
 #Suggested Projects
 
+## Unified Login Service
+
+We have multiple websites running in college which require login to access features. All the login data is maintained in a single source LDAP. Still, we need to independently login into each website independently. For developers, each developer has to individually write code to connect to LDAP and check for credentials. The idea is to remove this redundancy and instead create a Login service which can ensure that if you are login into your IIITA account, then all the websites you access, you are directly logged into. The inspiration behind this is Google accounts through which you can login into youtube, maps etc directly if you are logged into Gmail.
+The idea also comes effective in Online tech events. Here we usually ask users to register on a central portal. However, we have independent websites for each online event and it makes sense that the user gets a unified login on all sites.
+
 ## Institute ticketing system
 
 In todays world, major enterprises adopt ticketing systems as their primary inter-teams communication channel for raising requests and mentioning issues. The system acts as a web portal with clear ownership of different clients to different ticket queues. This highly expedites transparency and efficiency of the enterprise communication. Such a system also empowers to define clear service level agreements(SLA) between different entites. For example, a request X by a team A to team B should take maximum 5 days to process. 
