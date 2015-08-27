@@ -7,7 +7,7 @@ All the upcoming classes conducted by GeekHaven is listed here
 
 
 ###Competetive Programming 
-* 27 August 2015 - Introduction to competetive programming
+* 27 August 2015 - Introduction to competetive programming for freshers
 * 29 August 2015 - Range queries
 
 ###FOSS
