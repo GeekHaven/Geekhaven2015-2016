@@ -3,7 +3,6 @@
 ##Overall Coordinators
 * [Sanjeev S](https://github.com/ddemented)
 * [Vishnu Ks](http://github.com/hackerkid)
-* Ankit Mund
 
 ##Gymkhana Representative
 * Abhishek Menon
