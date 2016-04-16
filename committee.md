@@ -40,6 +40,7 @@
 * [Sulyab Thottungal](https://github.com/sulyabtv)
 * [Kaustubh Shamshery](https://github.com/KaustubhShamshery) 
 * Sarthak Panda
+* [Himanshu Shekhar](https://github.com/himanshub16)
 
 ##App Development
 ###Coordinators
